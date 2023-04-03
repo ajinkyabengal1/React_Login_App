@@ -7,7 +7,7 @@ function Home() {
 
     return (
         <>
-        <h1>Welcome To HomePage Sir !! 😎🙏 </h1>  
+        <h1>Welcome To HomePage Sir.😎🙏</h1>  
         </>
     )
 }
